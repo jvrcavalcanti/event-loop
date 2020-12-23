@@ -1,0 +1,19 @@
+{
+    "name": "accolon/event-loop",
+    "description": "Self-description",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jvrcavalcanti",
+            "email": "jonnyvictor01@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Accolon\\EventLoop\\": "src/"
+        }
+    }
+}
